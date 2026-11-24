@@ -1,0 +1,6 @@
+{
+  "name": "JSM Industries",
+  "description": "Factory Work Orders, Dispatches & Payment Reminders with Google Sheets two-way sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

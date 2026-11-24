@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JSM Industries</string>
+    <string name="header_title">JSM Industries</string>
+    <string name="header_subtitle">Work Orders</string>
+    <string name="nav_pending">Pending</string>
+    <string name="nav_new_order">New Order</string>
+    <string name="nav_completed">Completed</string>
+    <string name="nav_reminders">Reminders</string>
+    <string name="status_synced">Synced</string>
+    <string name="status_syncing">Syncing…</string>
+    <string name="status_offline">Local Mode</string>
+    <string name="status_sync_error">Sync Error</string>
+    <string name="action_mark_complete">Mark Complete / Dispatch</string>
+    <string name="action_record_payment">Record Payment</string>
+    <string name="action_send_whatsapp">Send WhatsApp Reminder</string>
+    <string name="action_save_order">Save Work Order</string>
+    <string name="action_update_order">Update Work Order</string>
+    <string name="action_add_item">+ Add Another Size/Item</string>
+</resources>
